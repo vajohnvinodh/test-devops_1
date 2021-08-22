@@ -1,0 +1,2 @@
+variable "mysubgrouid" {}
+variable "mypvtsecgroupid" {}
