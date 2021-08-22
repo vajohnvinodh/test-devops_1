@@ -1,0 +1,14 @@
+variable "region" {}
+variable "vpc_cidr" {}
+variable "vpc_name" {}
+variable "igw_name" {}
+variable "sub_publicroute" {}
+variable "pubsub_cidr" {}
+variable "pubsub_name" {}
+variable "pubsub_cidr1" {}
+variable "pubsub_name1" {}
+variable "sub_pvtroute" {}
+variable "pvtsub_cidr" {}
+variable "pvtsub_name" {}
+variable "pvtsub1_cidr" {}
+variable "pvtsub1_name" {}
