@@ -1,0 +1,5 @@
+server_type="t2.micro"
+keypair_name="John_Keypair"
+servername="test-devops1"
+subnetid = "subnet-0cdea9007e9af4add"
+secgroupid= "sg-0b0bca264d6cc146e"
